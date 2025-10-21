@@ -30,26 +30,6 @@ The diagram below illustrates the overall architecture of the pipeline and visua
 * Windows Task Scheduler (for automation)
 * Power BI (Desktop for development, Service for viewing, Gateway for data refresh)
 
-## Project Structure 📁
-CarPla-ETL/
-├── src/ # Core ETL scripts
-│ ├── extract.py # Extracts data from API to raw CSVs (not committed)
-│ ├── transform.py # Cleans raw data and saves cleaned CSVs
-│ └── load.py # Loads cleaned data into SQL Server
-│
-├── data_cleaned/ # Output directory for intermediate cleaned data
-│ ├── car_data_cleaned.csv
-│ └── shop_data_cleaned.csv
-│
-├── scripts/ # Utility/automation scripts
-│ └── run_etl.bat # Executes the full ETL pipeline on Windows
-│
-├── images/ # Architecture or visualization assets
-│ └── CarPla_ETL_Architecture.drawio.png
-│
-├── .gitignore # Specifies intentionally untracked files
-├── README.md # This file
-└── requirements.txt # Python dependencies
 
 
 ## Workflow ⚙️

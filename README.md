@@ -17,7 +17,7 @@ The diagram below illustrates the overall architecture of the pipeline and visua
 * **Visualization Layer:** Uses Power BI connected to the SQL Server database via a Power BI Gateway to create interactive dashboards.
 * **Automation:** The `run_etl.bat` script is scheduled for daily execution via Windows Task Scheduler.
 
-![CarPla ETL Pipeline & Power BI Visualization Architecture](CarPla_ETL_Architecture.drawio.png)
+![ Power BI Visualization ](images/Power Bi.png)
 ## Technologies Used 💻
 
 * Python 3.13 (as indicated in `run_etl.bat`)

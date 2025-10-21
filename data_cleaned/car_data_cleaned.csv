@@ -1,0 +1,604 @@
+﻿Product_ID,Title,Price,Year,Manufacturer,Brand,Origin,Figure,Seats,Gear,Fuel,Color,Shop_Slug
+F8V15,Isuzu D-Max LS PRESTIGE 1.9 4x2 MT 2024,627000000,2024,Isuzu,mu-X,Nhập khẩu,SUV,5,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V13,Isuzu mu-X Premium 1.9 4x4 AT 2023,1030000000,2023,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V12,HYUNDAI CRETA NLINE 2025 - ĐỎ,715000000,2025,Hyundai,Creta,Việt Nam,CUV,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8V11,HYUNDAI CRETA NLINE 2025 - ĐEN,715000000,2025,Hyundai,Creta,Việt Nam,CUV,5,Số tự động,Xăng,Đen,hyundai-kontum
+F8V10,Isuzu mu-X B7 Plus 4x2 AT 2025,927000000,2023,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V1Z,Isuzu mu-X 1.9 PRESTIGE 4X2 AT 2025,1124000000,2025,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Xám,isuzu-tay-bac-sai-gon
+F8V1Y,Isuzu mu-X 1.9 PRESTIGE 4X2 AT 2025,1124000000,2025,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V1S,Thanh lý Isuzu mu-X 1.9 PRESTIGE 4X2 AT 2021 - 95000km,780000000,2022,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V1I,ISUZU QKR270 THÙNG KÍN E5 2025,660000000,2025,Isuzu,QKR270,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8UJD,FORD RANGER RAPTOR 2.0L 4WD AT 2025 XÁM,1306000000,2025,Ford,Ranger,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xám,binh-thuan-ford
+F8URQ,FORD TERRITORY TITANIUM X 1.5 AT 2025 ĐỎ,889000000,2025,Ford,Territory,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,binh-thuan-ford
+F8VR1,FORD TRANSIT PREMIUM+ 2025 - TRẮNG,1091000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Trắng,binh-thuan-ford
+F8URR,FORD RANGER XLS 2.0L 4X4 AT 2025 ĐEN,776000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Đen,binh-thuan-ford
+F8VCP,FORD EVEREST SPORT SE 2025 MÀU TRẮNG TUYẾT,1199900000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,binh-thuan-ford
+F8URE,FORD RANGER RAPTOR 2024 ĐỎ CAM,1306000000,2024,Ford,Ranger,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đỏ,binh-thuan-ford
+F8UJE,FORD RANGER WILDTRAK 2.0L AT 4X4 2025 ĐỎ,986000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Đỏ,binh-thuan-ford
+F8URS,FORD RANGER XLS 2.0L 4X4 AT 2025 TRẮNG,776000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Trắng,binh-thuan-ford
+F8UKC,FORD RANGER XLS 2.0L 4x2 AT 2025 TRẮNG,707000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Trắng,binh-thuan-ford
+F8UJC, FORD EVEREST SPORT 4X2 AT 2025 ĐEN,1178000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Đen,binh-thuan-ford
+F8UZO,FORD TERRITORY TITANIUM X 1.5 AT 2025 NÂU,889000000000,2025,Ford,Territory,Việt Nam,SUV,5,Số tự động,Xăng,Nâu,binh-thuan-ford
+F8VAN,FORD RANGER XLS 2.0L 4X4 AT 2025 MÀU ĐỎ CAM,777600000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Đỏ,binh-thuan-ford
+F8URJ,FORD TRANSIT PREMIUM+ 2025 BẠC,1091000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Bạc,binh-thuan-ford
+F8UKU,FORD EXPLORER LIMITED 2.3L ECOBOOST I4 AT 2025 TRẮNG,1999000000,2025,Ford,Explorer,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,binh-thuan-ford
+F8URT,FORD RANGER WILDTRAK  2.0L 4X4 AT 2025 VÀNG,986000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Vàng,binh-thuan-ford
+F8VGP,FORD TRANSIT CỨU THƯƠNG HOÁN CẢI 2025 - MÀU TRẮNG,1057000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Trắng,binh-thuan-ford
+F8VAL,FORD RANGER SPORT 2.0L 4X4 AT 2025 MÀU ĐỎ,871000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Đỏ,binh-thuan-ford
+F8VR2,FORS TRANSIT PREMIUM+ 2025 PHIÊN BẢN ĐẶC BIỆT - MÀU VÀNG,1091000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Vàng,binh-thuan-ford
+F8UJA,FORD TERRITORY SPORT 1.5L AT 2024 ĐEN,869000000,2024,Ford,Territory,Việt Nam,SUV,5,Số tự động,Xăng,Đen,binh-thuan-ford
+F8URN,FORD EVEREST TITANIUM+ 2.0L 4X4 AT 2025 TRẮNG,1475000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,binh-thuan-ford
+F8URC,FORD RANGER STORMTRAK 2025 BẠC,1039000000,2025,Ford,Ranger,Nhập khẩu,Pickup,5,Số tự động,Dầu,Bạc,binh-thuan-ford
+F8V1T,"GEELY COOLRAY 5 MÀU, 3 PHIÊN BẢN NĂM 2025",538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8VTC,VOLVO XC60 PLUG - IN HYBRID ULTRA 2025,2750000000,2025,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Plug-in hybrid ,Xanh,volvo-ha-noi
+F8VZY,VOLVO S90 ULTRA 2025,2269000000,2025,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Xăng,Bạc,volvo-ha-noi
+F8VZX,VOLVO XC60 ULTRA 2025,2279000000,2025,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Xăng,Vàng,volvo-ha-noi
+F8VUQ,VOLVO EC40 2025,1739000000,2025,Volvo,EC40,Nhập khẩu,CUV,5,Số tự động,Điện,Xanh,volvo-ha-noi
+F8VUJ,VOLVO XC40 ULTRA 2025,1820000000,2025,Volvo,XC40,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,volvo-ha-noi
+F8VSS,VOLVO XC90 PLUG-IN HYBRID ULTRA 2025,4370000000,2025,Volvo,XC90,Nhập khẩu,SUV,7,Số tự động,Plug-in hybrid ,Trắng,volvo-ha-noi
+F8VT5,VOLVO S90 PLUG - IN HYBRID ULTRA 2025,2750000000,2025,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Plug-in hybrid ,Xám,volvo-ha-noi
+F8V1J,VF3,299000000,2025,Vinfast,VF5,Việt Nam,SUV,4,Số tự động,Điện,Trắng,vinfast-cuu-long-can-tho
+F8V1K,GEELY COOLRAY FLAGSHIP MÀU XÁM NĂM 2025,62628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-can-tho
+F8VZ5,GEELY COOLRAY BẢN CAO MÀU XANH DƯƠNG 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8VVK,VinFast VF6 Plus 2025,689000000,2025,Vinfast,VF5,Việt Nam,SUV,5,Số tự động,Điện,Xám,vinfast-cuu-long-can-tho
+F8VVI,VinFast VF3 2025,299000000,2025,Vinfast,VF5,Việt Nam,SUV,4,Số tự động,Điện,Đỏ,vinfast-cuu-long-can-tho
+F8VVJ,VinFast VF5 2025,529000000,2025,Vinfast,VF5,Việt Nam,SUV,5,Số sàn,Điện,Trắng,vinfast-cuu-long-can-tho
+F8VVL,VinFast VF7 2025,799000000,2025,Vinfast,VF8,Việt Nam,SUV,5,Số tự động,Điện,Đỏ,vinfast-cuu-long-can-tho
+F8V1H,ISUZU QKR230 MUI BẠT E5 2025,605000000,2025,Isuzu,QKR230,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V1F,ISUZU QKR210 THÙNG KÍN E5 2025,660000000,2025,Isuzu,QKR210,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8V1G,ISUZU QKR210 MUI BẠT E5 2025,660000000,2025,Isuzu,QKR210,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8VGH,"SUZUKI JIMNY 2024 TRẮNG, TẶNG PHỤ KIỆN, 2 CẦU, 4 CHỖ CHUYÊN OFFROAD",789000000,2024,Suzuki,XL7,Nhập khẩu,SUV,4,Số tự động,Xăng,Trắng,sai-gon-ngoi-sao
+F8VG1,SUZUKI XL7 HYBRID MÀU CAM - 7 CHỖ - NHẬP KHẨU - QUÀ TẶNG HƠN 65 TRIỆU,607900000,2024,Suzuki,XL7,Nhập khẩu,SUV,7,Số tự động,Xăng,Cam,sai-gon-ngoi-sao
+F8U58,SUZUKI JIMNY CHUYÊN OFFROAD - 2024 - MÀU TRẮNG NGÀ,789000000,2024,Suzuki,XL7,Nhập khẩu,SUV,4,Số tự động,Xăng,Trắng,sai-gon-ngoi-sao
+F8U59,SUZUKI XL7 HYBRID 2025 7 CHỖ - NHẬP KHẨU - MÀU TRẮNG NGÀ,607900000,2025,Suzuki,XL7,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,sai-gon-ngoi-sao
+F8VG2,SUZUKI XL7 HYBRID full ĐEN 2025 - 7 CHỖ - NHẬP KHẨU- ƯU ĐÃI HƠN 55 TRIỆU,589900000,2025,Suzuki,XL7,Nhập khẩu,SUV,7,Số tự động,Xăng,Đen,sai-gon-ngoi-sao
+F8VF6,SUZUKI JIMNY 2024 VÀNG NÓC ĐEN - CHUYÊN OFFROAD - 2 CẦU,799000000,2024,Suzuki,XL7,Nhập khẩu,SUV,4,Số tự động,Xăng,Vàng,sai-gon-ngoi-sao
+F8VII,SUZUKI XL7 HYBRID XANH KHAKI 2024 - 7 CHỖ - NHẬP KHẨU - ƯU ĐÃI NGAY 65 TRIỆU,599900000,2024,Suzuki,XL7,Nhập khẩu,Xe du lịch,7,Số tự động,Xăng,Xanh,sai-gon-ngoi-sao
+F8VGF,"SUZUKI JIMNY 2024 MÀU ĐỎ LIMITED, 2 CẦU, 4 CHỖ, OFFROAD",799000000,2024,Suzuki,XL7,Nhập khẩu,SUV,4,Số tự động,Xăng,Đỏ,sai-gon-ngoi-sao
+F8V0Y,HYUNDAI CRETA CAO CẤP 2025 - TRẮNG,705000000,2025,Hyundai,Creta,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U2B,Toyota Vios 1.5E CVT 2025,488000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,toyota-long-bien
+F8U17,Toyota Vios 1.5E MT 2025 ,458000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số sàn,Xăng,Trắng,toyota-long-bien
+F8VGR,Toyota Veloz CVT,638000000,2025,Toyota,Veloz Cross,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,toyota-long-bien
+F8V0M,HYUNDAI NEW CRETA FACELIFT - 2025,705000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8U0L,HYUNDAI ELANTRA 2.0 ĐẶC BIỆT 2025,699000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8UJY,HYUNDAI PALISADE 2.2D PRESTIGE 2024,1589000000,2024,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Dầu,Trắng,hyundai-gia-lai
+F8UEY,HYUNDAI ACCENT 1.5 CAO CẤP 2024,569000000,2024,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,hyundai-gia-lai
+F8U3T,HYUNDAI ELANTRA 1.6 ĐẶC BIỆT 2025,639000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8VCV,HYUNDAI GRAND I10 1.2 AT 2025,435000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8UXG,HYUNDAI SANTA FE 2.5T CALLIGRAPHY 2025,1365000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8VGT,Corolla Cross 1.8V,820000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,toyota-long-bien
+F8U2E, Toyota Vios 1.5G CVT 2025,545000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,toyota-long-bien
+F8VXH,Lynk & Co 01 Blue Louder Pro,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-nghe-an
+F8VMS,Lynk & Co 01 Louder  SẴN GIAO NGAY - NEW 100%,999000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-nghe-an
+F8VMK,"Lynk & Co 06 1.5 Turbo, Mới 100% Model 2025",729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-nghe-an
+F8VMV,Lynk & Co 06 NEW 100% Model 2025,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-nghe-an
+F8VMW,Lynk & Co 01 Hyper Black - NEW 100%,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,lynk-co-nghe-an
+F8VZW,GEELY COOLRAY FLAGSHIP MÀU 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8UPK,ISUZU MU-X B7 PLUS-SUV-2025,998000000,2025,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-dai-thinh
+F8UNI,GEELY COOLRAY PREMIUM 2025 MÀU BẠC,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-thai-nguyen
+F8UNK,GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-thai-nguyen
+F8UNG,GEELY COOLRAY PREMIUM 2025 MÀU CAM,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-thai-nguyen
+F8U3S,GEELY COOLRAY PREMIUM 2025 - MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-thai-nguyen
+F8UNJ,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-thai-nguyen
+F8UNE,GEELY COOLRAY STANDAR 2025 - MÀU TRẮNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-thai-nguyen
+F8UNF,GEELY COOLRAY STANDAR 2025 MÀU XÁM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-thai-nguyen
+F8VZI,GEELY COOLRAY FLAGSHIP MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8VZH,GEELY COOLRAY STANDARD MÀU BẠC,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VGU,Corolla Cross 1.8HV,905000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Hybrid,Trắng,toyota-long-bien
+F8VZA,LYNK & CO 09 XÁM ULTRA 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Xám,lynk-co-vung-tau
+F8VY9,LYNK & CO 09 XÁM ULTRA 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Xám,lynk-co-sai-gon
+F8VY8,LYNK & CO 05 HYPERHALO ĐEN 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,lynk-co-vung-tau
+F8VY7,LYNK & CO 05 HYPERHALO TRẮNG 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-vung-tau
+F8VY6,LYNK& CO 06 HYPER PRO MISTY GREY 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-vung-tau
+F8VY5,LYNK & CO 06 HYPER PRO SONIC GREEN 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-vung-tau
+F8VY4,LYNK & CO 06 HYPER PRO PASTEL LILAC 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-vung-tau
+F8VW5,Lynk & Co 09 ULTRA ĐEN 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Đen,lynk-co-sai-gon
+F8VY3,Lynk & Co 09 ULTRA ĐEN 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Đen,lynk-co-vung-tau
+F8VYV,HYUNDAI GRAND I10 HATCHBACK,352000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,hyundai-son-tra
+F8VYU,NEW HYUNDAI CRETA 2025 ĐỦ MÀU,595000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-son-tra
+F8VYR,GEELY COOLRAY FLAGSHIP MÀU XANH NĂM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8VXR,GEELY COOLRAY FLAGSHIP MÀU TRẮNG NĂM 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8VXM,HYUNDAI CRETA FL 2025 -Trắng,599000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-binh-dinh
+F8VHN,HYUNDAI MIGHTY W11S E5 2025 - THÙNG LỬNG,741000000,2025,Hyundai,W11S,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Trắng,hyundai-vinh-thinh
+F8U8Z,HYUNDAI SOLATI EURO 5 2024,1070000000,2025,Hyundai,Solati ,Nhập khẩu,Van/Minibus,16,Số sàn,Dầu,Bạc,hyundai-vinh-thinh
+F8VHP,HYUNDAI MIGHTY W11XL E5 2025 - THÙNG MUI BẠT,816000000,2025,Hyundai,W11XL,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Trắng,hyundai-vinh-thinh
+F8VHM,HYUNDAI MIGHTY W11S E5 2025 - THÙNG KÍN,753000000,2025,Hyundai,W11S,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Trắng,hyundai-vinh-thinh
+F8VHL,HYUNDAI MIGHTY W11S E5 2025 - THÙNG MUI BẠT,750000000,2025,Hyundai,W11S,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Trắng,hyundai-vinh-thinh
+F8VHO,HYUNDAI MIGHTY W11SL E5 2025 - THÙNG MUI BẠT,790000000,2025,Hyundai,W11SL,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Xanh,hyundai-vinh-thinh
+F8VDN,MITSUBISHI XFORCE ULTIMATE - 2025,710000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,mitsubishi-khanh-hoa
+F8VDM,MITSUBISHI XFORCE ULTIMATE - 2025,660000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,mitsubishi-khanh-hoa
+F8VHW,MITSUBISHI ATTRAGE PREMIUM 2025,445000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,mitsubishi-khanh-hoa
+F8VRN,HYUNDAI SANTAFE CALI TURBO - Trắng- 2025,1365000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-binh-dinh
+F8VDS,MITSUBISHI TRITON GLX 2025,625000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xám,mitsubishi-khanh-hoa
+F8VDQ,MITSUBISHI ATTRAGE MT 2025,334000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Trắng,mitsubishi-khanh-hoa
+F8VT9,HYUNDAI STARGAZER CAO CẤP 2025 - trắng,599000000,2025,Hyundai,Stargazer,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,hyundai-binh-dinh
+F8VDO,MITSUBISHI XPANDER PREMIUM 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-khanh-hoa
+F8VPV,HYUNDAI VENUE ĐẶC BIỆT- Trắng- 2025,539000000,2025,Hyundai,Venue,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-binh-dinh
+F8VV8,HYUNDAI CRETA 1.5 CAO CẤP- Trắng - 2025,699000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-binh-dinh
+F8VXI,Lynk & Co 06 Green Sonic,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-nghe-an
+F8VW7,GEELY COOLRAY FLAGSHIP MÀU XANH NĂM 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VW4,LYNK & CO 05 HYPERHALO ĐEN 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,lynk-co-sai-gon
+F8VW1,MITSUBISHI XPANDER CROSS 2025,698000000,2025,Mitsubishi,Xpander Cross,,SUV,7,Số tự động,Xăng,Đen,mitsubishi-lam-dong
+F8U9P,HYUNDAI SANTA FE 2.5 PRESTIGE 2025,1265000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Đỏ,hyundai-gia-lai
+F8URG,Ford Territory màu đỏ 2025 ,889000000,2025,Ford,Territory,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,binh-duong-ford
+F8U0G,Ford Territory Sport màu trắng 2025,869000000,2025,Ford,Territory,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,binh-duong-ford
+F8U0H,Ford Transit Cứu Thương màu trắng 2025,1050000000,2025,Ford,Transit,Việt Nam,Van/Minibus,8,Số sàn,Dầu,Trắng,binh-duong-ford
+F8VWX,LYNK & CO 01 2.0 TURBO 2025,999000000,2025,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-ha-long
+F8VWW,LYNK & CO 05 2.0 TURBO 2025,1599000000,2025,Lynk & Co,05,Nhập khẩu,Coupe,5,Số tự động,Xăng,Xám,lynk-co-ha-long
+F8VWD,GEELY COOLRAY STANDARD MÀU BẠC,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VT8,VOLVO S90 PLUG IN HYBRID ULTRA 2025,2750000000,2025,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Plug-in hybrid ,Đen,volvo-dong-sai-gon
+F8VT7,VOLVO X60 PLUG IN HYBRID ULTRA 2025,2750000000,2025,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Plug-in hybrid ,Xám,volvo-dong-sai-gon
+F8VV7,GEELY COOLRAY FLAGSHIP MÀU XÁM NĂM 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-can-tho
+F8VVS,VOLVO XC90 PLUG-IN HYBRID ULTRA 2025,4370000000,2025,Volvo,XC90,Nhập khẩu,SUV,7,Số tự động,Plug-in hybrid ,Đồng,volvo-car-sai-gon
+F8VVT,VOLVO XC40 ULTRA 2025,1820000000,2025,Volvo,XC40,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,volvo-car-sai-gon
+F8VVU,VOLVO EC40 2025,1739000000,2025,Volvo,EC40,Nhập khẩu,SUV,5,Số tự động,Điện,Trắng,volvo-car-sai-gon
+F8VVR,VOLVO S90 PLUG - IN HYBRID ULTRA 2025,2750000000,2025,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Plug-in hybrid ,Bạc,volvo-car-sai-gon
+F8VVZ,VOLVO XC60 ULTRA 2025,2279000000,2025,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,volvo-car-sai-gon
+F8VV0,VOLVO S90 ULTRA 2025,2269000000,2025,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,volvo-car-sai-gon
+F8VVQ,VOLVO XC60 PLUG - IN HYBRID ULTRA 2025,2750000000,2025,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Plug-in hybrid ,Xanh,volvo-car-sai-gon
+F8VVO,HYUNDAI CRETA ĐẶC BIỆT 2025 - XÁM,650000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Xám,hyundai-kontum
+F8VVN,GEELY COOLRAY FLAGSHIP MÀU ĐỎ,628000000,2025,Geely,Coolray,Nhập khẩu,,5,Số tự động,Xăng,Đỏ,geely-can-tho
+F8VIG,ISUZU NQRME4- 4T9- 5T5,895000000,2024,Isuzu,D-Max,Việt Nam,Pickup,2,Số sàn,Dầu,Trắng,isuzu-dai-thinh
+F8VU1,LYNK & CO 09,2199000000,2025,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,lynk-co-pham-van-dong
+F8VUX,ISUZU FRR650,1000000000,2025,Isuzu,FRR650,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,isuzu-dai-thinh
+F8VHG,SUZUKI XL7 HYBRID MÀU XÁM 2025 - 7 CHỖ - NHẬP KHẨU - ĐỘNG CƠ MỚI,599900000,2025,Suzuki,XL7,Nhập khẩu,SUV,7,Số tự động,Xăng,Xám,sai-gon-ngoi-sao
+F8VGJ,SUZUKI XL7 HYBRID 2025 - 7 CHỖ - NHẬP KHẨU- ƯU ĐÃI HƠN 55 TRIỆU,607900000,2024,Suzuki,XL7,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,sai-gon-ngoi-sao
+F8VUN,Lynk & Co 01,999000000,2025,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,lynk-co-long-bien
+F8UE0,HYUNDAI GRAND I10 1.2 AT 2024,455000000,2024,Hyundai,i10,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8VUF,LYNK & CO 05 HYPERHALO TRẮNG 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-sai-gon
+F8VRP,LYNK & CO 05 HYPERHALO XÁM 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-sai-gon
+F8VT6,VOLVO EC40 ULTRA 2025,1739000000,2025,Volvo,EC40,Nhập khẩu,CUV,5,Số tự động,Điện,Trắng,volvo-dong-sai-gon
+F8VUE,HYUNDAI SOLATI 16 CHỔ E5 - VIN 2025,1090000000,2025,Hyundai,Solati,Việt Nam,Xe khách,16,Số sàn,Dầu,Trắng,hyundai-phu-lam
+F8VUD,HYUNDAI SOLATI LIMOUSINE 12 CHỖ LOCOSTAR,1320000000,2025,Hyundai,Solati,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Đen,hyundai-phu-lam
+F8VUC,HYUNDAI SOLATI LIMOUSINE 10 GHẾ LOCOSTAR,1500000000,2025,Hyundai,Solati ,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Đen,hyundai-phu-lam
+F8VUA,Hyundai County SL Cửa Xoay,1500000000,2025,Hyundai,County,Nhập khẩu,Xe khách,29,Số sàn,Dầu,Nâu,hyundai-phu-lam
+F8VT4,VOLVO XC40 ULTRA 2025,1820000000,2025,Volvo,XC40,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,volvo-dong-sai-gon
+F8VT3,VOLVO S90 ULTRA 2025,2269000000,2025,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Xăng,Xanh,volvo-dong-sai-gon
+F8VTZ,VOLVO XC60 ULTRA 2025,2279000000,2025,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,volvo-dong-sai-gon
+F8VTU,HYUNDAI W11S EURO 5 THÙNG MUI BẠT,700000000,2025,Hyundai,W11S,Việt Nam,Xe tải,3,Số sàn,Dầu,Xanh,hyundai-phu-lam
+F8VTW,HYUNDAI W11S EURO 5 THÙNG KÍN,700000000,2025,Hyundai,W11S,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,hyundai-phu-lam
+F8VTX,HYUNDAI W11SL THÙNG MUI BẠT,720000000,2025,Hyundai,W11SL,Việt Nam,Xe tải,3,Số sàn,Dầu,Xanh,hyundai-phu-lam
+F8VTY,HYUNDAI W11XL THÙNG BẠT BỬNG NHÔM,720000000,2025,Hyundai,W11XL,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,hyundai-phu-lam
+F8VTV,HYUNDAI W11S EURO 5 THÙNG LỬNG,700000000,2025,Hyundai,W11S,Việt Nam,Xe tải,3,Số sàn,Dầu,Xanh,hyundai-phu-lam
+F8VTT,HYUNDAI MIGHTY EX8L E160 THÙNG BẠT,730000000,2024,Hyundai,EX8,Việt Nam,Xe tải,3,Số sàn,Dầu,Xanh,hyundai-phu-lam
+F8VTS,MITSUBISHI TRITON GLS 4X4 AT 2025,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đen,mitsubishi-lam-dong
+F8VTN,GEELY COOLRAY FLAGSHIP MÀU TRẮNG NĂM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8VTL,GEELY COOLRAY PREMIUM MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8VPS,LYNK & CO 01 - MỚI 100 % - XÁM - 2024,949050000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-thai-nguyen
+F8VMB,LYNK & CO 06 1.5 TURBO - MỚI 100% - XANH SONIC- 2024,692550000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-thai-nguyen
+F8VMC,LYNK & CO 01 2.0 TURBO - MỚI 100% - TRẮNG - 2024,949050000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-thai-nguyen
+F8VM6,LYNK & CO 06 1.5 TURBO - MỚI 100% - HỒNG LILAC - 2024,692550000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-thai-nguyen
+F8VL3,LYNK & CO 06 1.5 TURBO - MỚI 100 % - XÁM XI MĂNG - 2024,692550000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,lynk-co-thai-nguyen
+F8VM7,LYNK & CO 05 2.0 TURBO - MỚI 100% - ĐEN - 2024,1519050000,2024,Lynk & Co,05,Nhập khẩu,Coupe,5,Số tự động,Xăng,Đen,lynk-co-thai-nguyen
+F8VSO,HYUNDAI PALISADE PRESTIGE 2024 - TRẮNG,1589000000,2024,Hyundai,Palisade,Việt Nam,SUV,7,Số tự động,Dầu,Trắng,hyundai-kontum
+F8VSN,HYUNDAI I10 HATCHBACK 2025 - TRẮNG,435000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8VSK,HYUNDAI SANTAFE PRESTIGE 2025 - TRẮNG,1265000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8VSI,ISUZU QKR270 E4 2022 - 0 KM | XE MỚI 100%,820000000,2022,Isuzu,QKR270,Việt Nam,Xe tải,3,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8VSJ,LYNK& CO 06 HYPER PRO MISTY GREY 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-sai-gon
+F8VSD,ISUZU D-MAX CABIN ĐƠN THÙNG LẠNH UTZ 2021 - 12.000KM,480000000,2021,Isuzu,D-Max,Nhập khẩu,Pickup,2,Số sàn,Dầu,Trắng,isuzu-tay-bac-sai-gon
+F8VRQ,LYNK & CO 06 HYPER PRO PEARL WHITE 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-sai-gon
+F8VSG,LYNK & CO 06 HYPER PRO SONIC GREEN 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-sai-gon
+F8VSH,LYNK & CO 06 HYPER PRO PASTEL LILAC 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-sai-gon
+F8VRR,TOYOTA COROLLA CROSS 2025,820000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,toyota-tay-ninh
+F8VQ4,TOYOTA FORTUNER LEGENDER 2.4AT 4X2,1185000000,2025,Toyota,Fortuner,Việt Nam,SUV,7,Số tự động,Dầu,Trắng,toyota-tay-ninh
+F8VQ5,TOYOTA AVANZA AT,598000000,2025,Toyota,Avanza,Việt Nam,MPV,7,Số tự động,Xăng,Bạc,toyota-tay-ninh
+F8VQ6,LAND CRUISER PRADO M,3460000000,2025,Toyota,Land Cruiser Prado,Nhập khẩu,SUV,7,Số tự động,Xăng,Đen,toyota-tay-ninh
+F8VQ3,TOYOTA INNOVA CROSS HEV,1005000000,2025,Toyota,Innova Cross,Nhập khẩu,MPV,7,Số tự động,Hybrid,Bạc,toyota-tay-ninh
+F8VQ8,TOYOTA WIGO AT 2025,405000000,2025,Toyota,Wigo,Nhập khẩu,Hatchback,5,Số tự động,Xăng,Trắng,toyota-tay-ninh
+F8VR9,GEELY COOLRAY FLAGSHIP MÀU XANH 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8VR5,LYNK & CO 09 TRẮNG ULTRA 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,lynk-co-vung-tau
+F8VR4,LYNK& CO 06 TRẮNG WHITE PEARL 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-vung-tau
+F8VR3,LYNK & CO HYPERHALO 05 XÁM 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-vung-tau
+F8VRI,LYNK & CO LOUDER PRO 01 XÁM 2024,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-sai-gon
+F8VRL,LYNK & CO LOUDER PRO 01 XÁM 2024,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-vung-tau
+F8VRK,LYNK & CO LOUDER PRO 01 XANH 2024,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-vung-tau
+F8VK2,TOYOTA YARIS CROSS 2025,650000000,2025,Toyota,Yaris Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,toyota-tay-ninh
+F8VK0,TOYOTA VELOZ TOP 2025,660000000,2025,Toyota,Veloz Cross,Việt Nam,MPV,7,Số tự động,Xăng,Bạc,toyota-tay-ninh
+F8VKZ,TOYOTA RAIZE 2025,510000000,2025,Toyota,Raize,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,toyota-tay-ninh
+F8VQ7,TOYOTA CAMRY 2.0Q,1220000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Xăng,Bạc,toyota-tay-ninh
+F8VK1,TOYOTA VIOS G 2025,545000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,toyota-tay-ninh
+F8VQ9,LYNK & CO 09 - MỚI 100% - NĂM SẢN XUẤT 2024 - TRẮNG,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Hybrid,Trắng,lynk-co-da-lat
+F8VL6,LYNK & CO 03+ - 2025 - MỚI 100% - VÀNG,1899000000,2025,Lynk & Co,03,Nhập khẩu,Sedan,5,Số tự động,Xăng,Vàng,lynk-co-da-lat
+F8VLS,LYNK & CO 01 - 2024 - MỚI 100% - XÁM,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-da-lat
+F8VL5,LYNK & CO 05 - 2024 - MỚI 100% - ĐEN,1599000000,2024,Lynk & Co,05,Nhập khẩu,Coupe,5,Số tự động,Xăng,Đen,lynk-co-da-lat
+F8VL2,LYNK & CO 06 - 2024 - MỚI 100% - XÁM,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-da-lat
+F8VLE,LYNK & CO 06 2024 - ĐÀ LẠT,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-da-lat
+F8VF7,SUZUKI JIMNY 2024 MÀU ĐEN CỰC NGẦU - 2 CẦU CHUYÊN OFFROAD,789000000,2024,Suzuki,XL7,Nhập khẩu,SUV,4,Số tự động,Xăng,Đen,sai-gon-ngoi-sao
+F8VML,LYNK & CO 01 SẴN GIAO NGAY - NEW 100%,999000000,2025,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-ha-tinh
+F8VQQ,GEELY COOLRAY STANDARD MÀU BẠC NĂM 2025,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VQO,LYNK & CO 01,949050000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-thanh-hoa
+F8VQI,"LYNK & CO 05 sở hữu khung gầm CMA Volvo, 21 tính năng ADAS",1599000000,2025,Lynk & Co,05,Nhập khẩu,Coupe,5,Số tự động,Xăng,Đen,lynk-co-da-nang
+F8VQH,"LYNK & CO 06 sở hữu khung gầm BMA , 17 tính năng ADAS",729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-da-nang
+F8VPW,LYNK & CO 06 MÀU HỒNG NỘI THẤT KEM,692550000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-thanh-hoa
+F8VPY,LYNK & CO 06 MÀU TRẮNG NỘI THẤT ĐEN,692550000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-thanh-hoa
+F8VPO,HYUNDAI TUCSON/ Màu Đen/ 2025,979000000,2025,Hyundai,Tucson,Việt Nam,SUV,5,Số tự động,Xăng,Đen,hyundai-binh-dinh
+F8VPI,HYUNDAI CRETA ĐẶC BIỆT,650000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-binh-dinh
+F8VPF,HYUNDAI ACCENT 1.5 AT CAO CẤP,569000000,2025,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,hyundai-binh-dinh
+F8VPG,HYUNDAI ACCENT 1.5 AT CAO CẤP,569000000,2025,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,hyundai-binh-dinh
+F8VO2,GEELY COOLRAY PREMIUM MÀU BẠC 2025,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VNI,HYUNDAI NEW PORTER H150 EURO 5,120000000,2025,Hyundai,H150,Nhập khẩu,Xe tải,3,Số sàn,Dầu,Trắng,hyundai-hung-thinh-truck-bus
+F8VMJ,HYUNDAI SOLATI EURO 5 16 CHỖ,310000000,2025,Hyundai,Solati,Nhập khẩu,Xe khách,16,Số sàn,Dầu,Trắng,hyundai-hung-thinh-truck-bus
+F8VMT,HYUNDAI MIGHTY W750 EURO 5,220000000,2025,Hyundai,W750,Nhập khẩu,Xe tải,3,Số sàn,Dầu,Xanh,hyundai-hung-thinh-truck-bus
+F8VNC,HYUNDAI MIGHTY N250 EURO 5,160000000,2025,Hyundai,N250,Nhập khẩu,Xe tải,3,Số sàn,Dầu,Xanh,hyundai-hung-thinh-truck-bus
+F8VM5,LYNK & CO 05,1599000000,2024,Lynk & Co,05,Nhập khẩu,Coupe,5,Số tự động,Xăng,Trắng,lynk-co-vinh-phuc
+F8VM4,LYNK & CO 09 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Plug-in hybrid ,Trắng,lynk-co-vinh-phuc
+F8VM3,LYNK & CO 01 2024,949050000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-vinh-phuc
+F8VM2,LYNK & CO 06 2024,692550000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-vinh-phuc
+F8VMR,LYNK & CO 01 LOUDER,999000000,2025,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-hai-phong
+F8VMY,LYNK & CO 09 HALO,2199000000,2025,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,lynk-co-hai-phong
+F8VMU,LYNK & CO 01 2.0 TURBO,999000000,2025,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-buon-ma-thuot
+F8VMX,LYNK & CO 05 HYPER HALO,1599000000,2025,Lynk & Co,05,Nhập khẩu,Coupe,5,Số tự động,Xăng,Đen,lynk-co-hai-phong
+F8VMM,LYNK & CO 06 TRẮNG - XE ĐÔ THỊ - NEW 100%,729000000,2025,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-ha-tinh
+F8VMP,LYNK & CO 06 1.5 TURBO 2025,729000000,2025,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,lynk-co-buon-ma-thuot
+F8VMQ,LYNK & CO 06 HYPER,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-hai-phong
+F8VMN,LYNK & CO 06 1.5 TURBO 2025,729000000,2025,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-ha-long
+F8VMI,FORD FOCUS SPORT 1.5L ECOBOOST 2017,455000000,2017,Ford,Focus,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,lynk-co-vo-van-kiet
+F8VMH,FORD EVEREST TITANIUM 4X2 2019,860000000,2019,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,lynk-co-vo-van-kiet
+F8VMF,FORD TOURNEO TITA LIMOUSINE 2020,785000000,2020,Ford,Tourneo,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,lynk-co-vo-van-kiet
+F8VME,FORD ECOSPORT TITANIUM 1.5L 2017,365000000,2017,Ford,Ecosport,Việt Nam,SUV,5,Số tự động,Xăng,Xám,lynk-co-vo-van-kiet
+F8VLT,FORD TERRITORY SPORT,869000000,2024,Ford,Territory,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,tay-ninh-ford
+F8VLN,Ford Territory Titanium Mới,849000000,2025,Ford,Territory,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,tay-ninh-ford
+F8VLK,Ford Territory Trend 2025,759000000,2025,Ford,Territory,Việt Nam,CUV,5,Số tự động,Xăng,Xám,tay-ninh-ford
+F8VLB,INNOVA CROSS HYBIRD 2024 TRẮNG NGỌC TRAI,998000000,2024,Toyota,Innova Cross,Nhập khẩu,MPV,7,Số tự động,Hybrid,Trắng,toyota-ninh-binh
+F8VK8,XPANDER CROSS TRẮNG 2025,698000000,2025,Mitsubishi,Xpander Cross,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-binh-thuan
+F8VK7,GEELY COOLRAY PREMIUM MÀU TRẮNG NĂM 2025,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8VK6,TRITON 4x4 ATHLETE 2025 CAM ĐEN,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-binh-thuan
+F8VK5,ATTRAGE CVT PREMIUM 2025,490000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,mitsubishi-binh-thuan
+F8VK4,XPANDER PREMIUM TRẮNG 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-binh-thuan
+F8VKY,Hyundai Venue 2025 Đà Nẵng,492000000,2025,Hyundai,Venue,Việt Nam,CUV,5,Số tự động,Xăng,Đỏ,hyundai-song-han
+F8VKX,Hyundai Grand i10 2025 Đà Nẵng,413000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,hyundai-song-han
+F8VKW,Hyundai Santafe 2025 Đà Nẵng - LH ; Mr Phương,1049000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-song-han
+F8VKV,Hyundai Tucson 2025 Đà Nẵng,769000000,2025,Hyundai,Tucson,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-song-han
+F8VKU,Hyundai accent 2025 Đà Nẵng,464000000,2025,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,hyundai-song-han
+F8VKT,XPANDER PREMIUM 2022 ĐEN,550000000,2022,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Đen,mitsubishi-binh-thuan
+F8VKQ,XPANDER PREMIUM 2022 TRẮNG,555000000,2022,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-binh-thuan
+F8VKS,XPANDER AT 2020 BẠC,490000000,2020,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Bạc,mitsubishi-binh-thuan
+F8U7D,HYUNDAI VENUE 1.0 ĐẶC BIỆT 2025,539000000,2025,Hyundai,Venue,Việt Nam,SUV,5,Số tự động,Xăng,Đen,hyundai-gia-lai
+F8VKR,XPANDER PREMIUM 2022 ĐEN,550000000,2022,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Đen,mitsubishi-binh-thuan
+F8VIE,MITSUBISHI XFORCE ULTIMATE 2025,710000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Vàng,mitsubishi-lam-dong
+F8VHZ,ISUZU DMAX PRESTIGE MT 4X2 - 2025,650000000,2025,Isuzu,D-Max,Nhập khẩu,Pickup,5,Số sàn,Dầu,Bạc,isuzu-dai-thinh
+F8VHX,ISUZU NPR 350-400 TAI TRONG 3490KG - 3990KG -EURO5- 2025,825000000,2025,Isuzu,D-Max,Việt Nam,Pickup,2,Số sàn,Dầu,Trắng,isuzu-dai-thinh
+F8VHV,HYUNDAI PALISADE PESTIGE 2025 - ĐEN,1589000000,2025,Hyundai,Palisade,Việt Nam,SUV,7,Số tự động,Dầu,Đen,hyundai-kontum
+F8VHU,HYUNDAI ACCENT MT 2025 - TRẮNG,439000000,2025,Hyundai,Accent,Việt Nam,Sedan,5,Số sàn,Xăng,Trắng,hyundai-kontum
+F8VHT,HYUNDAI CUSTIN TIÊU CHUẨN 2025 - TRẮNG,820000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8VHS,GEELY COOLRAY FLAGSHIP NĂM 2025 MÀU XANH,628000000,2025,Geely,Coolray,Việt Nam,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8VHF,HYUNDAI MIGHTY EX8 GT S2 2024,750000000,2024,Hyundai,EX8,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Trắng,hyundai-vinh-thinh
+F8VHK,HYUNDAI MIGHTY W750L E5 2025,745000000,2025,Hyundai,W750L,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Xanh,hyundai-vinh-thinh
+F8VHI,HYUNDAI MIGHTY N250 E5 2025,532000000,2025,Hyundai,N250,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Xanh,hyundai-vinh-thinh
+F8VHJ,HYUNDAI MIGHTY N250SL E5 2025,566000000,2025,Hyundai,N250SL,Nhập khẩu,Xe tải,2,Số sàn,Dầu,Xanh,hyundai-vinh-thinh
+F8VHE,MITSUBISHI XFORCE EXCEED 2024,640000000,2024,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,mitsubishi-lam-dong
+F8UHX,LYNK & CO 06 - 2024 - MỚI 100% - XÁM NT ĐEN,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,lynk-co-can-tho
+F8UHV,LYNK & CO 06 - 2024 - MỚI 100% - XANH SONIC NỘI THẤT ĐEN,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,4,Số tự động,Xăng,Xanh,lynk-co-can-tho
+F8UHU,LYNK & CO 06 - 2024 - MỚI 100% - HỒNG NỘI THẤT KEM,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Hồng,lynk-co-can-tho
+F8UHS,LYNK & CO 05 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-can-tho
+F8UHP,LYNK & CO 06 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,729000000,2024,Lynk & Co,06,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co-can-tho
+F8VG8,GEELY COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VG9,GEELY COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VGW,YARIS CROSS HEV,765000000,2025,Toyota,Yaris,Nhập khẩu,SUV,5,Số tự động,Hybrid,Trắng,toyota-long-bien
+F8VGV,Yaris Cross 2025,650000000,2025,Toyota,Yaris,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,toyota-long-bien
+F8VGS,Toyota Veloz CVT Top,660000000,2025,Toyota,Veloz Cross,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,toyota-long-bien
+F8VGN,GEELY COOLRAY PREMIUM MÀU TRẮNG NĂM 2025,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8VGM,MITSUBISHI XPANDER CROSS 2025,698000000,2025,Mitsubishi,Xpander Cross,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-lam-dong
+F8VGG,GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8VGB,MITSUBISHI XFORCE PREMIUM 2025,680000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,mitsubishi-lam-dong
+F8UPA,ISUZU DMAX PRESTIGE 4X2 AT- 2025,681000000,2025,Isuzu,D-Max,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,isuzu-dai-thinh
+F8VF4,XE TẢI ISUZU QKR210-1Tấn9 EURO5 -2025,660000000,2025,Isuzu,D-Max,Việt Nam,Pickup,2,Số sàn,Dầu,Trắng,isuzu-dai-thinh
+F8VFV,HYUNDAI CUSTIN TIÊU CHUẨN 2025 - ĐEN,820000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Đen,hyundai-kontum
+F8VFU,HYUNDAI VENUE TIÊU CHUẨN 2025 - TRẮNG,499000000,2025,Hyundai,Venue,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8VFT,HYUNDAI VENUE 1.0T ĐẶC BIỆT  2025 - TRẮNG,539000000,2025,Hyundai,Venue,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8VCT,HYUNDAI CRETA ĐẶC BIỆT 2025 - XÁM,650000000,2025,Hyundai,Creta,Việt Nam,CUV,5,Số tự động,Xăng,Xám,hyundai-kontum
+F8VFF,MITSUBISHI XPANDER AT PREMIUM 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Bạc,mitsubishi-lam-dong
+F8U82,MITSUBISSHI XFORCE ULTIMATE 2025,710000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,mitsubishi-lam-dong
+F8VC2,MITSUBISHI XFORCE ULTIMATE 2025,705000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,mitsubishi-lam-dong
+F8VDH,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8UF5,HYUNDAI STARGAZER X 1.5 CAO CẤP 2024,599000000,2024,Hyundai,Stargazer,Nhập khẩu,MPV,7,Số tự động,Xăng,Đỏ,hyundai-gia-lai
+F8UMG,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-ha-long
+F8UMB,GEELY COOLRAY STANDAR 2025 MÀU CAM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-ha-long
+F8UMO,GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-ha-long
+F8U4I,TOYOTA INNOVA 2025 ,810000000,2025,Toyota,Innova,Nhập khẩu,MPV,7,Số tự động,Hybrid,Đen,toyota-ly-thuong-kiet
+F8U4D,TOYOTA VIOS 2025 ,458000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số sàn,Xăng,Trắng,toyota-ly-thuong-kiet
+F8U4K,TOYOTA FORTUNER 2025 ,1055000000,2025,Toyota,Fortuner,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,toyota-ly-thuong-kiet
+F8U8Y,MITSUBISHI XPANDER AT PREMIUM 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-lam-dong
+F8VCU,HYUNDAI GRAND I10 HATCHBACK 2025 - ĐỎ,435000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8VCO,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-can-tho
+F8VAU,MITSUBISHI TRITON UT GLX 4X2 AT 2025,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Van/Minibus,5,Số tự động,Dầu,Xám,mitsubishi-lam-dong
+F8VA4,MITSUBISHI ATTRAGE MT 2025,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,,5,Số sàn,Xăng,Trắng,mitsubishi-lam-dong
+F8U3R,HYUNDAI CUSTIN 1.5 ĐẶC BIỆT 2025,915000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,hyundai-gia-lai
+F8UL3,GEELY COOLRAY STANDARD 2025 - MÀU XÁM GÓC CẠNH,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-phu-my-hung
+F8UL2,GEELY COOLRAY STANDARD 2025 - MÀU XANH NĂNG ĐỘNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-phu-my-hung
+F8UL4,GEELY COOLRAY PREMIUM 2025 - MÀU TRẮNG NĂNG LƯỢNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-phu-my-hung
+F8UL6,GEELY COOLRAY FLAGSHIP 2025 - MÀU XÁM GÓC CẠNH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-phu-my-hung
+F8UL5,GEELY COOLRAY PREMIUM 2025 - MÀU ĐỎ ĐAM MÊ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-phu-my-hung
+F8VA8,GEELY COOLRAY FLAGSHIP 2025 MÀU TRẮNG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8U56,MITSUBISHI XPANDER AT ECO 1.5L 2025,598000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-ba-ria-vung-tau
+F8U57,MITSUBISHI ATTRAGE MT 1.2L 2025,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,mitsubishi-ba-ria-vung-tau
+F8U53,MITSUBISHI ALL NEW TRITON GLX 2.4L AT 2025,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xám,mitsubishi-ba-ria-vung-tau
+F8U54,MITSUBISHI ALL NEW TRITON ATHLETE 4x4 AT 2.4L Bi-Turbo 2025,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-ba-ria-vung-tau
+F8U7Q,MITSUBISHI XPANDER MT 1.5L 2025,560000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số sàn,Xăng,Trắng,mitsubishi-ba-ria-vung-tau
+F8U7R,MITSUBISHI TRITON 2WD PREMIUM 2.4L AT 2025,782000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-ba-ria-vung-tau
+F8U52,MITSUBISHI XPANDER 1.5L AT 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-ba-ria-vung-tau
+F8U7S,MITSUBISHI XFORCE PREMIUM 1.5L CVT 2025,680000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,mitsubishi-ba-ria-vung-tau
+F8U55,MITSUBISHI XPANDER CROSS 1.5L AT 2025,698000000,2025,Mitsubishi,Xpander Cross,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-ba-ria-vung-tau
+F8VAY,HYUNDAI I10 HATCHBACK 2025 - TRẮNG,435000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8VAX,HYUNDAI ACCENT CAO CẤP 2024 - ĐEN,569000000,2024,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Đen,hyundai-kontum
+F8VAW,HYUNDAI VENUE ĐẶC BIỆT 2025 - XÁM,539000000,2025,Hyundai,Venue,Việt Nam,CUV,5,Số tự động,Xăng,Xám,hyundai-kontum
+F8VAV,HYUNDAI VENUE TIÊU CHUẨN 2025 - ĐỎ,499000000,2025,Hyundai,Venue,Việt Nam,CUV,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8U99,GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-can-tho
+F8U4U,TOYOTA AVANZA PREMIO 2025,558000000,2025,Toyota,Avanza,Việt Nam,MPV,7,Số sàn,Xăng,Trắng,toyota-ly-thuong-kiet
+F8U2Z,FORD TERRITORY TREND 2025,759000000,2025,Ford,Territory,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,sai-gon-ford
+F8U25,FORD EVEREST PLATINUM 4X4 2025,1545000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Đen,sai-gon-ford
+F8U31,FORD RANGER XLS AT 4X2 2025,707000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Đỏ,sai-gon-ford
+F8U33,FORD RANGER XLS AT 4X4 2025,776000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Trắng,sai-gon-ford
+F8U39,FORD TERRITORY SPORT 2025,869000000,2025,Ford,Territory,Việt Nam,CUV,5,Số tự động,Xăng,Đen,sai-gon-ford
+F8U4E,FORD RANGER WILDTRAK 4X4 2025,979000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Xám,sai-gon-ford
+F8U4H,FORD RANGER RAPTOR 2025,1306000000,2025,Ford,Ranger,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xám,sai-gon-ford
+F8U43,FORD TRANSIT PREMIUM 16S 2025,999000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Trắng,sai-gon-ford
+F8U49,FORD TRANSIT TREND 2025,907000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Bạc,sai-gon-ford
+F8U5B,FORD EVEREST TITANIUM 4X2 2025,1299000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Đen,sai-gon-ford
+F8U5D,FORD EVETREST TITANIUM 4X4 2025,1468000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Xám,sai-gon-ford
+F8U5N,FORD TERRITORY TITANIUM X 2025,889000000,2025,Ford,Territory,Việt Nam,CUV,5,Số tự động,Xăng,Trắng,sai-gon-ford
+F8U73,GEELY COOLRAY PREMIUM MÀU BẠC,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8U7W,HYUNDAI CUSTIN TIÊU CHUẨN 2025 - ĐEN,820000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Đen,hyundai-kontum
+F8U6R,HYUNDAI I10 SEDAN MT 2025 - BẠC,380000000,2025,Hyundai,i10,Việt Nam,Sedan,5,Số sàn,Xăng,Bạc,hyundai-kontum
+F8U6S,HYUNDAI I10 HATCHBACK 2025 - TRẮNG,435000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U7T,HYUNDAI ELANTRA 1.6 TIÊU CHUẨN 2025 - ĐỎ,579000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8U7V,HYUNDAI CUSTIN 2.0T 2025 - TRẮNG,999000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U7U,HYUNDAI IONIQ 5 2025 - BẠC,1300000000,2025,Hyundai,EX8,Nhập khẩu,Hatchback,5,Số tự động,Điện,Bạc,hyundai-kontum
+F8U7E,GEELY COOLRAY STANDARD MAY BẠC NĂM 2025,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8U4T,TOYOTA VELOZ CROSS 2025 ,638000000,2025,Toyota,Veloz Cross,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,toyota-ly-thuong-kiet
+F8U6Q,HYUNDAI ELANTRA 2.0 2025 - TRẮNG,699000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Xám,hyundai-kontum
+F8U6P,HYUNDAI ELANTRA 2.0 2025 - TRẮNG,699000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U6G,GEELY COOLRAY STANDARD MÀU BẠC NĂM 2025,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8U6F,GEELY COOLRAY FLAGSHIP MÀU XANH ,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8U5T,HYUNDAI STARGAZER X CAO CẤP 2025 - XÁM,599000000,2025,Hyundai,Stargazer,Việt Nam,MPV,7,Số tự động,Xăng,Xám,hyundai-kontum
+F8U5S,HYUNDAI ELANTRA TIÊU CHUẨN 2025 - ĐỎ,579000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8U5R,HYUNDAI ELANTRA TIÊU CHUẨN 2025 - TRẮNG,579000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U5Q,HYUNDAI SANTA FE CALLIGRAPHY 2025 - TRẮNG,1365000000,2025,Hyundai,Santa Fe,Việt Nam,CUV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U5P,GEELY COOLRAY PREMIUM XÁM ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-giai-phong
+F8U40,TOYOTA LAND CRUISER PRADO 2025,3480000000,2025,Toyota,Land Cruiser Prado,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,toyota-ly-thuong-kiet
+F8U4Y,TOYOTA HILUX  2025 ,706000000,2025,Toyota,Hilux,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đen,toyota-ly-thuong-kiet
+F8U4X,TOYOTA WIGO 2025 ,405000000,2025,Toyota,Wigo,Nhập khẩu,Hatchback,5,Số tự động,Xăng,Bạc,toyota-ly-thuong-kiet
+F8U4F,TOYOTA COROLLA ALTIS 2025 ,725000000,2025,Toyota,Corolla Altis,Nhập khẩu,Sedan,5,Số tự động,Xăng,Đen,toyota-ly-thuong-kiet
+F8U4M,TOYOTA RAIZE 2025,510000000,2025,Toyota,Raize,Nhập khẩu,,5,Số tự động,Xăng,Vàng,toyota-ly-thuong-kiet
+F8U4O,TOYOTA YARIS CROSS 2025 ,650000000,2025,Toyota,Yaris Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,toyota-ly-thuong-kiet
+F8U4G,TOYOTA CAMRY 2025 ,1220000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Hybrid,Xám,toyota-ly-thuong-kiet
+F8UXH,HYUNDAI CRETA 1.5 ĐẶC BIỆT 2025,650000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,hyundai-gia-lai
+F8UKS,Mitsubishi Attrage 2025,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Trắng,mitsubishi-truong-chinh
+F8UKP,Mitsubishi Outlander 2.0 CVT 2025,825000000,2025,Mitsubishi,Outlander,Việt Nam,CUV,7,Số tự động,Xăng,Đỏ,mitsubishi-truong-chinh
+F8UKY,Mitsubishi All-New Triton 2025 ,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-truong-chinh
+F8UKZ,Mitsubishi Xpander 2025,560000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-truong-chinh
+F8UVC,Mitsubishi Xforce 2025,599000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Vàng,mitsubishi-truong-chinh
+F8UVD,Mitsubishi Xpander Cross 2025,698000000,2025,Mitsubishi,Xpander Cross,Nhập khẩu,MPV,7,Số tự động,Xăng,Cam,mitsubishi-truong-chinh
+F8U2Y,MITSUBISHI XPANDER PREMIUM - BẠC - NEW 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Bạc,mitsubishi-tay-ninh
+F8UIT,MITSUBISHI XFORCE ULTIMATE 1.5L MIVEC 2024,705000000,2024,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Vàng,mitsubishi-tay-ninh
+F8U3N,TRITON ATHLETE 2 CẦU CAM - NEW 2025,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-tay-ninh
+F8U3M,TRITON AT PREMIUM TRẮNG - NEW 2025,782000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,mitsubishi-tay-ninh
+F8U3L,TRITON AT PREMIUM CAM - NEW 2025,782000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-tay-ninh
+F8U3K,TRITON AT PREMIUM ĐEN - NEW 2025,782000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đen,mitsubishi-tay-ninh
+F8U3J,TRITON AT GLX ĐEN - NEW 2025,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đen,mitsubishi-tay-ninh
+F8U3I,TRITON AT GLX TRẮNG - NEW 2025,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,mitsubishi-tay-ninh
+F8U3H,FORD EVEREST PLATINIUM 2.0L 4X4,1545000000,2025,Ford,Everest,Việt Nam,SUV,7,Số tự động,Dầu,Bạc,ben-thanh-ford
+F8U3G,TRITON AT GLX​ XÁM - NEW 2025,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xám,mitsubishi-tay-ninh
+F8U28,FORD RANGER WILDTRAK 4X4 10AT,979000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Đen,ben-thanh-ford
+F8U24,XPANDER CROSS NÂU - NEW 2025,698000000,2025,Mitsubishi,Xpander,Nhập khẩu,SUV,7,Số tự động,Xăng,Nâu,mitsubishi-tay-ninh
+F8U27,XPANDER CROSS ĐEN - NEW 2025,698000000,2025,Mitsubishi,Xpander,Nhập khẩu,SUV,7,Số tự động,Xăng,Đen,mitsubishi-tay-ninh
+F8U22,XPANDER CROSS TRẮNG - NEW 2025,698000000,2025,Mitsubishi,Xpander Cross,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8U2W,MITSUBISHI XPANDER PREMIUM - ĐEN - NEW 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Đen,mitsubishi-tay-ninh
+F8U2V,MITSUBISHI XPANDER PREMIUM - ĐỎ - NEW 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Đỏ,mitsubishi-tay-ninh
+F8U2T,MITSUBISHI XPANDER PREMIUM - TRẮNG - NEW 2025,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8U2R,FORD TERRITORY TREND TRẮNG,759000000,2025,Ford,Territory,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,ben-thanh-ford
+F8U2Q,MITSUBISHI XPANDER AT XÁM BẠC- NEW 2025,598000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Xám,mitsubishi-tay-ninh
+F8U2N,MITSUBISHI XPANDER AT TRẮNG - NEW 2025,598000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8U2P,MITSUBISHI XPANDER AT ĐEN - NEW 2025,598000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Đen,mitsubishi-tay-ninh
+F8U2O,FORD TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM+ 18 CHỖ,1091000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Bạc,ben-thanh-ford
+F8U2M,FORD TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM16 CHỖ,999000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Trắng,ben-thanh-ford
+F8U2L,MITSUBISHI ATTRAGE CVT PREMIUM 2025,490000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8U2K,MITSUBISHI ATTRAGE CVT 2025,465000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Đỏ,mitsubishi-tay-ninh
+F8U2J,FORD TRANSIT HOÀN TOÀN MỚI BẢN TREND 16 CHỖ,907000000,2025,Ford,Transit,Việt Nam,Van/Minibus,16,Số sàn,Dầu,Trắng,ben-thanh-ford
+F8U0U,MITSUBISHI ATTRAGE MT XÁM - NEW 2025,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Xám,mitsubishi-tay-ninh
+F8U1O,GEELY COOLRAY STANDARD MÀU BẠC,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8U1M,GEELY COOLRAY FLAGSHIP MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-can-tho
+F8U1J,HYUNDAI CRETA ĐẶC BIỆT 2025 - XÁM,690000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Xám,hyundai-kontum
+F8U1G,HYUNDAI TUCSON TIÊU CHUẨN 2025 - ĐỎ,769000000,2025,Hyundai,Tucson,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8U1F,HYUNDAI TUCSON TIÊU CHUẨN 2025 - TRẮNG,769000000,2025,Hyundai,Tucson,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8U1E,HYUNDAI CRETA ĐẶC BIỆT 2025 - ĐEN,690000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Đen,hyundai-kontum
+F8UMF,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-binh-duong
+F8UMH,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-binh-duong
+F8UL9,GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-binh-duong
+F8UMD,GEELY COOLRAY PREMIUM 2025 MÀU ĐEN,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,geely-binh-duong
+F8UL8,GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-binh-duong
+F8UMC,GEELY COOLRAY PREMIUM 2025 MÀU CAM,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-binh-duong
+F8U0X,Toyota Camry 2.5 HEV Mid 2025 - Màu Trắng,1460000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Hybrid,Trắng,toyota-nam-dinh
+F8U0W,HYUNDAI VENUE TIÊU CHUẨN 2025 - ĐỎ,499000000,2025,Hyundai,Venue,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8U0V,HYUNDAI ACCENT 2024 CAO CẤP - GHI VÀNG,569000000,2024,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Vàng,hyundai-kontum
+F8U0T,MITSUBISHI ATTRAGE MT - 2025,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Trắng,mitsubishi-tay-ninh
+F8U0S,HYUNDAI ACCENT 1.5AT CAO CẤP 2025,569000000,2025,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-tay-do
+F8U0R,GEELY COOLRAY FLAGSHIP MÀU TRẮNG ,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8U0Q,GEELY COOLRAY STANDARD 2025 MÀU BẠC,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8U0N,HYUNDAI VENUE 1.0 T-GDi 2025,539000000,2025,Hyundai,Venue,Việt Nam,SUV,5,Số tự động,Xăng,Trắng,hyundai-tay-do
+F8U0F,Ford Ranger Wildtrak màu vàng Luxe 2025,986000000,2025,Ford,Ranger,Việt Nam,Pickup,5,Số tự động,Dầu,Vàng,binh-duong-ford
+F8UXJ,HYUNDAI VENUE 1.0 ĐẶC BIỆT 2025,539000000,2025,Hyundai,Venue,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,hyundai-gia-lai
+F8UZS,HYUNDAI STARGAZER TIÊU CHUẨN 2025 - TRẮNG,489000000,2025,Hyundai,Stargazer,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UZE,Toyota Veloz Cross Top 1.5 CVT 2025 - Màu Đỏ,660000000,2025,Toyota,Veloz Cross,Việt Nam,MPV,7,Số tự động,Xăng,Đỏ,toyota-nam-dinh
+F8UYL,HYUNDAI PALISADE EXCLUSIVE 2025 - TRẮNG,1479000000,2025,Hyundai,Palisade,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UYJ,HYUNDAI SANTA FE Exclusive 2025 - Trắng,1069000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UYE,HYUNDAI CUSTIN 1.5 TURBO CAO CẤP 2025 - TRẮNG,950000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UNH,FORD EVEREST TITANIUM+ 2.0L AT 4X4,1468000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Nâu,gia-dinh-ford
+F8UXC,HYUNDAI TUCSON 2.0 DẦU 2025 MÀU TRẮNG,989000000,2025,Hyundai,Tucson,Việt Nam,SUV,5,Số tự động,Dầu,Trắng,hyundai-kontum
+F8UXD,HYUNDAI TUCSON 2.0 TIÊU CHUẨN 2025 MÀU ĐEN,769000000,2025,Hyundai,Tucson,Việt Nam,SUV,5,Số tự động,Xăng,Đen,hyundai-kontum
+F8UXE,HYUNDAI ACCENT MT 2025 MÀU TRẮNG,424000000,2024,Hyundai,Accent,Việt Nam,Sedan,4,Số sàn,Xăng,Trắng,hyundai-kontum
+F8UX4,HYUNDAI CUSTIN 1.5 Turbo Tiêu chuẩn 2025 - Màu Trắng,820000000,2025,Hyundai,Custin,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UX6,HYUNDAI CRETA TIÊU CHUẨN 2025 - ĐỎ,600000000,2025,Hyundai,Creta,Việt Nam,SUV,5,Số tự động,Xăng,Đỏ,hyundai-kontum
+F8UX5,HYUNDAI STARGAZER TIÊU CHUẨN 2025 - XÁM,489000000,2025,Hyundai,Stargazer,Nhập khẩu,MPV,7,Số tự động,Xăng,Xám,hyundai-kontum
+F8UX9,HYUNDAI ACCENT 1.5 ĐẶC BIỆT 2025 - XANH,529000000,2025,Hyundai,Accent,Việt Nam,Sedan,5,Số tự động,Xăng,Xanh,hyundai-kontum
+F8UX8,HYUNDAI ELANTRA 1.6 TIÊU CHUẨN 2025- TRẮNG,579000000,2025,Hyundai,Elantra,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UMJ,FORD EVEREST PLATINUM 2.0L AT 4X4 MAU TRANG,1552000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,gia-dinh-ford
+F8UOJ,FORD EVEREST TITANIUM 2.0L AT 4X2 TRẮNG TUYẾT,1306000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,gia-dinh-ford
+F8UMZ,EVEREST PLATINUM 2.0L AT 4X4,1545000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Đen,gia-dinh-ford
+F8UX3,HYUNDAI SANTA FE PRESTIGE 2025 màu Trắng ,1265000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Trắng,hyundai-kontum
+F8UX2,GEELY COOLRAY - FLAGSHIP MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8UVO,MITSUBISHI XPANDER AT 2025,598000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-savico-da-nang
+F8UOK,MITSUBISHI XFORCE EXCEED 2025,640000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,mitsubishi-savico-da-nang
+F8UWF,MITSUBISHI XFORCE ULTIMATE 2025,705000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Vàng,mitsubishi-savico-da-nang
+F8UHI,TOYOTA FORTUNER 2.4AT 4X2 2025 Màu Đen,1055000000,2025,Toyota,Fortuner,Việt Nam,SUV,7,Số tự động,Dầu,Đen,toyota-nam-dinh
+F8UG6,TOYOTA VIOS 1.5G 2025 Màu Đỏ,545000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số tự động,Xăng,Đỏ,toyota-nam-dinh
+F8UG9,TOYOTA COROLLA CROSS 1.8V 2025 Màu Xám,820000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,toyota-nam-dinh
+F8UHJ,TOYOTA CAMRY 2.0Q 2025 Màu Đen,1220000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Xăng,Đen,toyota-nam-dinh
+F8UG5,INNOVA CROSS 2.0 HEV - 2025 Màu Trắng,1005000000,2025,Toyota,Innova,Nhập khẩu,MPV,7,Số tự động,Hybrid,Trắng,toyota-nam-dinh
+F8UUC,Toyota Corolla Cross 1.8HEV Màu Đen,905000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Hybrid,Đen,toyota-nam-dinh
+F8UXV,TOYOTA VELOZ CROSS TOP 1.5L D-CVT Màu Trắng,660000000,2025,Toyota,Veloz Cross,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,toyota-nam-dinh
+F8UWI,MITSUBISHI XPANDER CROSS 2025,698000000,2025,Mitsubishi,Xpander Cross,Nhập khẩu,MPV,7,Số tự động,Xăng,Nâu,mitsubishi-savico-da-nang
+F8UWE,MITSUBISHI TRITON 2WD AT GLX​ 2025,650000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xám,mitsubishi-savico-da-nang
+F8UVM,MITSUBISHI TRITON 2WD AT GLX​ 2025,650000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,mitsubishi-savico-da-nang
+F8UEX,TOYOTA VELOZ CROSS CVT TOP 2025,660000000,2025,Toyota,Veloz Cross,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UD7,TOYOTA VIOS 1.5E CVT 2025,488000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UD6,TOYOTA VIOS 1.5E MT 2025,458000000,2025,Toyota,Vios,Việt Nam,Sedan,5,Số sàn,Xăng,Trắng,toyota-can-tho
+F8UU7,GEELY CẦN THƠ COOLRAY - FLAGSHIP 628.000.000 TRIỆU,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-can-tho
+F8URB,HYUNDAI SANTA FE CALLIGRAPHY TURBO (6 GHẾ) 2025,1365000000,2025,Hyundai,Santa Fe,Việt Nam,SUV,7,Số tự động,Xăng,Đen,hyundai-tay-do
+F8UOF,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-ha-tinh
+F8UOC,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-ha-tinh
+F8UOD,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-ha-tinh
+F8UOE,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-ha-tinh
+F8UN1,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-can-tho
+F8UN3,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-can-tho
+F8UN5,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-can-tho
+F8UN8,GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-can-tho
+F8UNY,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-hai-phong
+F8UNX,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-hai-phong
+F8UNV,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-hai-phong
+F8UNT,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-hai-phong
+F8UNO,GEELY COOLRAY PREMIUM 2025 MÀU BẠC,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-vinh-phuc
+F8UNP,GEELY COOLRAY PREMIUM 2025 MÀU XANH DƯƠNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-vinh-phuc
+F8UNS,GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-vinh-phuc
+F8UNU,GEELY COOLRAY FLAGSHIP 2025 MÀU TRẮNG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-vinh-phuc
+F8UM3,GEELY COOLRAY PREMIUM 2025 MÀU XÁM,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-thanh-hoa
+F8UM5,GEELY COOLRAY PREMIUM 2025 MÀU CAM,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-thanh-hoa
+F8UM8,GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-thanh-hoa
+F8UNA,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-thanh-hoa
+F8UMY,GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-da-nang
+F8UMU,GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-da-nang
+F8UMV,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-da-nang
+F8UMW,GEELY COOLRAY PREMIUM 2025 MÀU XÁM,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-da-nang
+F8UMX,GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-da-nang
+F8ULW,GEELY COOLRAY PREMIUM 202 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-long-bien
+F8ULY,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-long-bien
+F8ULZ,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-long-bien
+F8UL0,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-long-bien
+F8UQ9,HYUNDAI I10 HATCHBACK 2025 ĐỎ,360000000,2025,Hyundai,i10,Việt Nam,Hatchback,5,Số hỗn hợp,Xăng,Trắng,hyundai-kontum
+F8UMN,GEELY COOLRAY PREMIUM 2025 MÀU ĐEN,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,geely-dak-lak
+F8UMP,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-dak-lak
+F8UML,GEELY COOLRAY STANDAR 2025 MÀU CAM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-dak-lak
+F8UMQ,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-dak-lak
+F8UMR,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-dak-lak
+F8UNC,GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-binh-phuoc
+F8UM7,GEELY COOLRAY PREMIUM 2025 MÀU ĐEN,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,geely-binh-phuoc
+F8UND,GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-binh-phuoc
+F8UM9,GEELY COOLRAY PREMIUM 2025 MÀU XÁM,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-binh-phuoc
+F8USN,GEELY COOLRAY PREMIUM 7DCT 4X2 2025 TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-giai-phong
+F8ULX,GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-giai-phong
+F8UPF,GEELY COOLRAY FLAGSHIP 7DCT 4X2 2025 TRANG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-giai-phong
+F8ULO,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-giai-phong
+F8ULR,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-giai-phong
+F8ULM,GEELY COOLRAY STANDARD 2025 MÀU BẠC,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-giai-phong
+F8ULN,GEELY COOLRAY STANDARD 2025 MÀU XANH DƯƠNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-giai-phong
+F8ULT,GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-giai-phong
+F8UPI,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-can-tho
+F8UNW,GEELY COOLRAY STANDAR 2025 MÀU BẠC,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Bạc,geely-can-tho
+F8UME,GEELY COOLRAY STANDAR 2025 MÀU XÁM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-ha-long
+F8UMI,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-ha-long
+F8UMK,GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-ha-long
+F8UN4,GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-vinh
+F8UN6,GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,578000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-vinh
+F8UN7,GEELY COOLRAY FLAGSHIP 2025 MÀU ĐEN,628000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,geely-vinh
+F8UO0,ISUZU DMAX TYPE-Z 4X4 AT - 2025,880000000,2025,Isuzu,D-Max,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đỏ,isuzu-dai-thinh
+F8UQ8,ISUZU MUX PRESTIGE 4X2 AT FULL 2023-2024,980000000,2023,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-dai-thinh
+F8UKT,MITSUBISHI XFORCE 2025,640000000,2025,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,mitsubishi-quang-nam
+F8UOX,ALL-NEW TRITON 4WD AT ATHLETE 2025,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đen,mitsubishi-quang-nam
+F8UOW,ALL-NEW TRITON 4WD AT ATHLETE 2025,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,mitsubishi-quang-nam
+F8UOU,ALL-NEW TRITON 2WD AT GLX​ 2025,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Đen,mitsubishi-quang-nam
+F8UOT,ALL-NEW TRITON 2WD AT PREMIUM 2025,782000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,mitsubishi-quang-nam
+F8UOR,ALL-NEW TRITON 4WD AT ATHLETE 2025,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-quang-nam
+F8UKO,MITSUBISHI XPANDER AT ECO 2025,598000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-quang-nam
+F8UKR,MITSUBISHI ATTRAGE 2025,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Trắng,mitsubishi-quang-nam
+F8UQ5,ISUZU DMAX HILANDER 4X2 AT- FULL OPTION- 2025,781000000,2025,Isuzu,D-Max,Nhập khẩu,Pickup,5,Số tự động,Dầu,Xanh,isuzu-dai-thinh
+F8UPH,ISUZU DMAX UTZ800 4X4 MT- 2025,656000000,2025,Isuzu,D-Max,Nhập khẩu,Pickup,5,Số sàn,Dầu,Đen,isuzu-dai-thinh
+F8UPN,ISUZU MU-X B7 MT- SUV - 2025,910000000,2025,Isuzu,mu-X,Nhập khẩu,SUV,7,Số sàn,Dầu,Trắng,isuzu-dai-thinh
+F8UPZ,ISUZU MUX PREMIUM 4X4 AT - FULL OPTION - 2023.,1250000000,2023,Isuzu,mu-X,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,isuzu-dai-thinh
+F8UOA,GEELY COOLRAY STANDAR 2025 MÀU CAM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-ha-tinh
+F8UOB,GEELY COOLRAY STANDAR 2025 MÀU XÁM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-ha-tinh
+F8UN0,GEELY COOLRAY STANDAR 2025 MÀU XANH,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-vinh
+F8UOS,MITSUBISHI TRITON PREMIUM 2WD AT,782000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-long-an
+F8UNR,GEELY COOLRAY STANDAR 2025 MÀU ĐEN,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,geely-hai-phong
+F8UNZ,GEELY COOLRAY STANDAR 2025 MÀU XANH DƯƠNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-can-tho
+F8UNQ,GEELY COOLRAY STANDAR 2025 MÀU CAM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-hai-phong
+F8UNL,GEELY COOLRAY STANDAR 2025 MÀU XÁM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xám,geely-vinh-phuc
+F8UO7,MITSUBISHI OUTLANDER 2.0CVT ,825000000,2025,Mitsubishi,Outlander,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-long-an
+F8UNN,GEELY COOLRAY STANDAR 2025 MÀU CAM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-vinh-phuc
+F8UM1,GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-thanh-hoa
+F8UM6,GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-binh-phuoc
+F8UM4,GEELY COOLRAY STANDAR 2025 MÀU XANH,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-binh-phuoc
+F8UMM,GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,geely-dak-lak
+F8UM2,GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,geely-thanh-hoa
+F8UMS,GEELY COOLRAY STANDAR 2025 MÀU XANH DƯƠNG,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,geely-da-nang
+F8ULS,GEELY COOLRAY STANDAR 2025 MÀU CAM,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Cam,geely-long-bien
+F8ULV,GEELY COOLRAY STANDAR 202 MÀU ĐEN,538000000,2025,Geely,Coolray,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,geely-long-bien
+F8UOV,MITSUBISHI TRITON ATHLETE 4WD AT,924000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Cam,mitsubishi-long-an
+F8UOQ,MITSUBISHI TRITON GLX 2WD AT,655000000,2025,Mitsubishi,Triton,Nhập khẩu,Pickup,5,Số tự động,Dầu,Trắng,mitsubishi-long-an
+F8UOP,MITSUBISHI XFORCE ULTIMATE- 2025,705000000,2025,Mitsubishi,ASX,Nhập khẩu,SUV,5,Số tự động,Xăng,Đỏ,mitsubishi-long-an
+F8UOO,MITSUBISHI XFORCE PREMIUM - 2025,680000000,2025,Mitsubishi,ASX,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,mitsubishi-long-an
+F8UOH,FORD EVEREST TITANIUM 2.0L AT 4X2,1299000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Bạc,gia-dinh-ford
+F8UOG,EVEREST TITANIUM+ 2.0L AT 4X4 MAU TRANG TUYET,1475000000,2025,Ford,Everest,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,gia-dinh-ford
+F8UKX,MITSUBISHI XPANDER MT - 2025 ,560000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số sàn,Xăng,Trắng,mitsubishi-long-an
+F8UKW,MITSUBISHI XPANDER CROSS - 2025 ,698000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-long-an
+F8UKV,MITSUBISHI XPANDER AT PREMIUM- 2025 ,658000000,2025,Mitsubishi,Xpander,Nhập khẩu,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-long-an
+F8UKQ,MITSUBISHI XPANDER AT ECO - 2025 - NAU,598000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Nâu,mitsubishi-long-an
+F8UKN,MITSUBISHI XPANDER AT ECO - 2025 - XAM BAC,598000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Bạc,mitsubishi-long-an
+F8UKM,MITSUBISHI XPANDER AT ECO - 2025 - ĐEN,598000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Đen,mitsubishi-long-an
+F8UKL,MITSUBISHI XPANDER AT ECO - 2025 - TRANG,598000000,2025,Mitsubishi,Xpander,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,mitsubishi-long-an
+F8UKK,MITSUBISHI ATTRAGE CVT PREMIUM- 2025 - ĐO,490000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Đỏ,mitsubishi-long-an
+F8UKJ,MITSUBISHI ATTRAGE CVT PREMIUM- 2025 - XAM,490000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Xám,mitsubishi-long-an
+F8UKG,MITSUBISHI ATTRAGE MT - 2025 - XÁM- XE MỚI 100%,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Xám,mitsubishi-long-an
+F8UKF,MITSUBISHI ATTRAGE MT - 2025 - TRẮNG - XE MỚI 100%,380000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Trắng,mitsubishi-long-an
+F8UKH,MITSUBISHI ATTRAGE CVT PREMIUM- 2025 - TRANG,490000000,2025,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,mitsubishi-long-an
+F8UIJ, MITSUBISHI XPANDER AT PREMIUM 2024,658000000,2024,Mitsubishi,Xpander,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8UIY,MITSUBISHI XPANDER CROSS 1.5L MIVEC 2024,698000000,2024,Mitsubishi,Xpander Cross,Nhập khẩu,SUV,7,Số tự động,Xăng,Cam,mitsubishi-tay-ninh
+F8UIA,MITSUBISHI XFORCE GLX 1.5L MIVEC 2024,599000000,2024,Mitsubishi,Xforce ,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8UI0,MITSUBISHI PAJERO  D 4X4 AT Diesel 2.4L MIVEC 2024,1365000000,2024,Mitsubishi,Pajero Sport,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,mitsubishi-tay-ninh
+F8UIZ,MITSUBISHI PAJERO  D 4X2 AT Diesel 2.4L MIVEC 2024,1130000000,2024,Mitsubishi,Pajero Sport,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,mitsubishi-tay-ninh
+F8UIX,MITSUBISHI ATTRAGE CVT PREMIUM 1.2L MIVEC 2024,490000000,2024,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,mitsubishi-tay-ninh
+F8UIV,MITSUBISHI ATTRAGE MT 1.2L MIVEC 2024,380000000,2024,Mitsubishi,Attrage,Nhập khẩu,Sedan,5,Số sàn,Xăng,Trắng,mitsubishi-tay-ninh
+F8T38,VOLVO V60 CROSS COUNTRY 2024,2690000000,2024,Volvo,V60,Nhập khẩu,SUV,7,Số tự động,Xăng,Đen,volvo-car-vietnam
+F8T3V,VOLVO EC40 2024,1739000000,2024,Volvo,XC40,Nhập khẩu,CUV,5,Số tự động,Điện,Xanh,volvo-car-vietnam
+F8T3W,VOLVO PLUG-IN HYBRID XC90 2024,4370000000,2024,Volvo,XC90,Nhập khẩu,SUV,7,Số tự động,Plug-in hybrid ,Xanh,volvo-car-vietnam
+F8T3X,VOLVO PLUG-IN HYBRID XC60 2024,2750000000,2024,Volvo,XC60,Nhập khẩu,CUV,5,Số tự động,Plug-in hybrid ,Đỏ,volvo-car-vietnam
+F8T3Z,VOLVO PLUG-IN HYBRID S90 2024,2750000000,2024,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Plug-in hybrid ,Nâu,volvo-car-vietnam
+F8T31,VOLVO XC60 2024,2279000000,2024,Volvo,XC60,Nhập khẩu,SUV,5,Số tự động,Hybrid,Trắng,volvo-car-vietnam
+F8T34,VOLVO XC40 2024,1820000000,2024,Volvo,XC40,Nhập khẩu,SUV,5,Số tự động,Hybrid,Bạc,volvo-car-vietnam
+F8T36,VOLVO S90 2024,2269000000,2024,Volvo,S90,Nhập khẩu,Sedan,5,Số tự động,Hybrid,Nâu,volvo-car-vietnam
+F8UD1,TOYOTA CAMRY 2.0Q 2025,1220000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UD2,TOYOTA CAMRY HEV TOP CE 2025,1542000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Hybrid,Đỏ,toyota-can-tho
+F8UD5,TOYOTA CAMRY 2.5HEV MID 2025,1460000000,2025,Toyota,Camry,Nhập khẩu,Sedan,5,Số tự động,Plug-in hybrid ,Xám,toyota-can-tho
+F8UD9,TOYOTA WIGO E 1.2 MT 2025,360000000,2025,Toyota,Wigo,Nhập khẩu,Hatchback,5,Số sàn,Xăng,Đỏ,toyota-can-tho
+F8UEA,TOYOTA WIGO 1.2 G 2025,405000000,2025,Toyota,Wigo,Nhập khẩu,Hatchback,5,Số tự động,Xăng,Đỏ,toyota-can-tho
+F8UEB,TOYOTA COROLLA ALTIS 1.8G 2025,725000000,2025,Toyota,Corolla Altis,Nhập khẩu,Sedan,5,Số tự động,Xăng,Xanh,toyota-can-tho
+F8UEC,TOYOTA COROLLA ALTIS 1.8V 2025,780000000,2025,Toyota,Corolla Altis,Nhập khẩu,Sedan,5,Số tự động,Xăng,Xanh,toyota-can-tho
+F8UED,TOYOTA COROLLA ALTIS 1.8HEV 2025,870000000,2025,Toyota,Corolla Altis,Nhập khẩu,Sedan,5,Số tự động,Plug-in hybrid ,Xanh,toyota-can-tho
+F8UEE,TOYOTA RAIZE 2025,498000000,2025,Toyota,Raize,Nhập khẩu,SUV,5,Số tự động,Xăng,Xanh,toyota-can-tho
+F8UES,TOYOTA COROLLA CROSS 1.8V 2025,820000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UET,TOYOTA COROLLA CROSS 1.8HEV 2025,905000000,2025,Toyota,Corolla Cross,Nhập khẩu,SUV,5,Số tự động,Plug-in hybrid ,Trắng,toyota-can-tho
+F8UEU,TOYOTA YARIS CROSS 1.5V 2025,650000000,2025,Toyota,Yaris Cross,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UEV,TOYOTA YARIS CROSS 1.5HEV 2025,765000000,2025,Toyota,Yaris Cross,Nhập khẩu,SUV,5,Số tự động,Plug-in hybrid ,Trắng,toyota-can-tho
+F8UEW,TOYOTA VELOZ CROSS CVT 2025,638000000,2025,Toyota,Veloz ,Việt Nam,MPV,7,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UE3,TOYOTA AVANZA PREMIO 1.5MT 2025,558000000,2025,Toyota,Avanza,Việt Nam,MPV,7,Số sàn,Xăng,Bạc,toyota-can-tho
+F8UE4,TOYOTA AVANZA PREMIO 1.5CVT 2025,598000000,2025,Toyota,Avanza,Việt Nam,MPV,7,Số tự động,Xăng,Bạc,toyota-can-tho
+F8UE7,TOYOTA INNOVA CROSS 2.0HEV 2025,1013000000,2025,Toyota,Innova,Nhập khẩu,MPV,8,Số tự động,Plug-in hybrid ,Trắng,toyota-can-tho
+F8UE9,TOYOTA FORTUNER 2.4AT 4X2 2025,1055000000,2025,Toyota,Fortuner,Nhập khẩu,SUV,7,Số tự động,Dầu,Trắng,toyota-can-tho
+F8UFA,TOYOTA FORTUNER 2.7AT 4X2 2025,1155000000,2025,Toyota,Fortuner,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UFC,TOYOTA FORTUNER LEGENDER 2.7AT 4X4 2025,1395000000,2025,Toyota,Fortuner,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UFE,TOYOTA FORTUNER LEGENDER 2.7AT 4X2 2025,1290000000,2025,Toyota,Fortuner,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,toyota-can-tho
+F8UFI,TOYOTA FORTUNER LEGENDER 2.8AT 4X4 2025,1350000000,2025,Toyota,Fortuner,Việt Nam,SUV,7,Số tự động,Dầu,Trắng,toyota-can-tho
+F8T28,Lynk & Co 03+ 2023,1899000000,2023,Lynk & Co,03,Nhập khẩu,Sedan,5,Số tự động,Xăng,Đen,lynk-co
+F8T29,Lynk & Co 09 2024,2199000000,2024,Lynk & Co,09,Nhập khẩu,SUV,7,Số tự động,Xăng,Trắng,lynk-co
+F8T3A,Lynk & Co 05 2024,1599000000,2024,Lynk & Co,05,Nhập khẩu,SUV,5,Số tự động,Xăng,Đen,lynk-co
+F8T3B,Lynk & Co 01 2024,999000000,2024,Lynk & Co,01,Nhập khẩu,SUV,5,Số tự động,Xăng,Trắng,lynk-co
+F8T3C,Lynk & Co 06 2024,729000000,2024,Lynk & Co,06,Nhập khẩu,CUV,5,Số tự động,Xăng,Trắng,lynk-co

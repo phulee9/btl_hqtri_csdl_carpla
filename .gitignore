@@ -1,0 +1,6 @@
+# Raw data files
+car_data.csv
+shop_data.csv
+*.log
+*.txt
+*.sql
